@@ -1,5 +1,4 @@
-
-# 🧠 Ultimate Sorting Visualizer (Streamlit Version)
+# 🧠 Sorting Visualizer (Streamlit Version)
 
 This is a Streamlit-based web application that visually demonstrates how various sorting algorithms work. It displays real-time updates of the sorting process using animated bar charts. Great for students, educators, and developers looking to understand sorting visually.
 
