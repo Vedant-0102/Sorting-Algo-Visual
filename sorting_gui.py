@@ -12,7 +12,7 @@ if 'data' not in st.session_state:
     st.session_state.swaps = 0
     st.session_state.start_time = 0
 
-st.title("🧠 Ultimate Sorting Visualizer (Streamlit Edition)")
+st.title("Sorting Visualizer ")
 
 # Sidebar Inputs
 st.sidebar.header("Settings")
