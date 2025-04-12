@@ -1,10 +1,9 @@
-# sorting_visualizer_streamlit.py
+
 import streamlit as st
 import matplotlib.pyplot as plt
 import time
 import random
 
-# Initialize session state on first load
 if 'data' not in st.session_state:
     st.session_state.data = []
     st.session_state.sorting = False
@@ -14,7 +13,6 @@ if 'data' not in st.session_state:
 
 st.title("Sorting Visualizer ")
 
-# Sidebar Inputs
 st.sidebar.header("Settings")
 speed_option = st.sidebar.radio("Select Speed Multiplier:", options=["0.5x", "0.75x", "1x", "1.5x", "2x"], index=2)
 
