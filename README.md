@@ -57,9 +57,9 @@ This is a Streamlit-based web application that visually demonstrates how various
 
 ## 📷 Screenshots
 
-```StreamLit UI
+StreamLit UI
 ![StreamLit UI](https://github.com/user-attachments/assets/a1608b11-396d-4ae6-94a0-87f83c06f256)
-```
+
 
 ---
 
