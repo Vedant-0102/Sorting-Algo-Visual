@@ -58,7 +58,7 @@ This is a Streamlit-based web application that visually demonstrates how various
 ## 📷 Screenshots
 
 ```markdown
-![UI](screenshots/ui.png)
+![UI](https://github.com/user-attachments/assets/734ff678-19e1-4372-843f-dae142491235)
 ```
 
 ---
