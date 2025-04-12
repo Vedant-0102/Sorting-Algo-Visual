@@ -1,14 +1,14 @@
-# 🧠 Sorting Visualizer (Streamlit Version)
+# Sorting Visualizer (Streamlit Version)
 
 This is a Streamlit-based web application that visually demonstrates how various sorting algorithms work. It displays real-time updates of the sorting process using animated bar charts. Great for students, educators, and developers looking to understand sorting visually.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎨 Real-time animated bar chart visualizations
-- 🔀 Random array generation (12 elements max)
-- 🧮 Supports multiple sorting algorithms:
+- Real-time animated bar chart visualizations
+- Random array generation (12 elements max)
+- Supports multiple sorting algorithms:
   - Bubble Sort
   - Selection Sort
   - Insertion Sort
@@ -16,12 +16,12 @@ This is a Streamlit-based web application that visually demonstrates how various
   - Quick Sort
   - Heap Sort
   - Shell Sort
-- 🚦 Speed control using selectable presets: 0.5x, 0.75x, 1x, 1.5x, 2x
-- 📊 Live stats including time taken and number of swaps
+- Speed control using selectable presets: 0.5x, 0.75x, 1x, 1.5x, 2x
+- Live stats including time taken and number of swaps
 
 ---
 
-## 🛠️ Installation & Usage
+##  Installation & Usage
 
 1. Clone this repository:
    ```bash
@@ -45,7 +45,7 @@ This is a Streamlit-based web application that visually demonstrates how various
 
 ---
 
-## 📌 Requirements
+## Requirements
 
 - Python 3.8+
 - Libraries:
@@ -54,7 +54,7 @@ This is a Streamlit-based web application that visually demonstrates how various
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 StreamLit UI
 ![StreamLit UI](https://github.com/user-attachments/assets/a1608b11-396d-4ae6-94a0-87f83c06f256)
@@ -62,7 +62,7 @@ StreamLit UI
 
 ---
 
-## 📜 License
+## License
 
 This project is publicly accessible, but the code is not available for reuse or modification.
 
